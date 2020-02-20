@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FB Sharer Demo</string>
+    <string name="share_intent_title">Share</string>
+    <string name="share_whatsapp_not_instaled">WA Not Installed</string>
+</resources>
